@@ -1,7 +1,7 @@
 import { Config } from '@stencil/core';
 
 export const config: Config = {
-  namespace: 'componente-danielacoello',
+  namespace: 'api-componentedaniela',
   outputTargets: [
     {
       type: 'dist',
